@@ -1,0 +1,30 @@
+
+#pagination-class-sanitize{
+	/*margin-top:0px;*/
+}
+
+#advanced-select{	
+	margin:21px 0px 0px 0px;
+	width:100px;	
+}
+
+
+#header-tracking{
+	float:left;
+}
+
+.form-hiding{
+	display:none;
+}
+
+.form-showing{
+	display:block;
+}
+
+#tracking-result-form{
+	margin:0px 0 5px 20px;
+}
+
+.good-pagination{
+	margin-left: 285px;
+}

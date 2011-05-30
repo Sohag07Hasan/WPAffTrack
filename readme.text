@@ -1,0 +1,17 @@
+If admin clicks on any cloaked link it does not count.
+Anyway other users and visitors clicks will be counted!After
+activating the plugins create some posts or pages including these
+cloaked links.You have to logout from the site and visit this as a
+visitor.Click on a link more than 5 times(to ensure it is working),Now
+login again and go to that plugin's setting page and you will find
+counts are shown.
+
+I am sending you some snap shot to make you understand how it works:
+If a visitor and a user clicks on your cloaked links it counts total unique counts and total counts on slug basis . i understand you are unable to find the counts.Please go to admin page the where you are making
+your cloaked links.above all there is a table to show the clicks.
+
+For better understanding please see the snap shot provided
+
+further query pls mail me ( hyde.sohag@gmail.com ) or you can find me skype (sohag_skype)
+thanks for your time 
+
